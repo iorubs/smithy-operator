@@ -1,0 +1,8 @@
+SmithyOperator
+Copyright 2026 Ruben Vasconcelos
+
+This product includes software developed by:
+
+- The Kubernetes Authors (https://github.com/kubernetes and https://github.com/kubernetes-sigs)
+  Including Kubebuilder and Kubernetes API/client libraries
+  Licensed under the Apache License 2.0
